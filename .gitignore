@@ -1,0 +1,9 @@
+.DS_Store
+aspnet-core/.vscode
+/.vs
+
+**/bin
+
+**/appsettings.json
+
+aspnet-core/src/*/App_Data
